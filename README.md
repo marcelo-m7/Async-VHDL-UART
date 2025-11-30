@@ -1,12 +1,3 @@
-# Assignment 4 – UART em VHDL (8-N-1, Paridade Par)
-
-**Aluno**: Marcelo Santos
-**Email**: [a79433@ualg.pt](mailto:a79433@ualg.pt)
-**UC**: Computação Reconfigurável
-**Instituição**: Universidade do Algarve
-
----
-
 ## 📕 Objetivo
 
 Implementar em VHDL um **UART** assíncrono com as seguintes características:
@@ -78,7 +69,3 @@ Após a correção do tempo de parada na FSM de recepção, os dois bytes foram 
 # ** Note: Byte 2 recebido corretamente: 0xFF
 # ** Note: Teste concluído!
 ```
-
----
-
-**[Repositório GitHub](https://github.com/marcelo-m7/UART-em-VHDL---8-N-1--Paridade-Par)**
